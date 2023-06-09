@@ -1,2 +1,3 @@
-# multiple-javascript-projects
-some vanilla javascript projects 
+# vanilla js
+form validation using html, css, javascript
+ 
